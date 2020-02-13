@@ -15,7 +15,7 @@
     "connect-flash": "~0.1.1",
     "cookie-parser": "~1.4.3",
     "dotenv": "*",
-    "express": "4.15.2",
+    "express": "4.17.1",
     "express-session": "1.15.2",
     "morgan": "1.8.1",
     "node-datetime": "1.0",
