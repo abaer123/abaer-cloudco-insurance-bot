@@ -18,7 +18,7 @@
     "express": "4.15.2",
     "express-session": "1.15.2",
     "morgan": "1.8.1",
-    "node-datetime": "1.0",
+    "node-datetime": "2.1",
     "socket.io":"*",
     "passport": "~0.3.2",
     "passport-local": "~1.0.0",
